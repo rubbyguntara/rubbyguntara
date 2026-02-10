@@ -79,7 +79,7 @@ This repository! A clean, responsive portfolio site designed to showcase my SAP 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rubbyguntara&theme=dark&mode=weekly&card_width=600" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=rubbyguntara&theme=dark&hide_border=true&mode=weekly&card_width=600" alt="GitHub Streak" />
 </p>
 
 ---
