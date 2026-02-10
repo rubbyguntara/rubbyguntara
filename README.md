@@ -79,8 +79,7 @@ This repository! A clean, responsive portfolio site designed to showcase my SAP 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rubbyguntara&show_icons=true&theme=transparent" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubbyguntara&layout=compact&theme=radical" alt="Languages" />
+  <img src="https://streak-stats.demolab.com?user=rubbyguntara&theme=dark&mode=weekly&card_width=600" alt="GitHub Streak" />
 </p>
 
 ---
