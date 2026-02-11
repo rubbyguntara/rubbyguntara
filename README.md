@@ -42,13 +42,14 @@ I bridge the gap between complex **SAP Backend Logic** and **Business Needs**, e
 ![OData](https://img.shields.io/badge/Integration-OData%20%2F%20Gateway-green?style=flat-square)
 ![Fiori](https://img.shields.io/badge/UI-Fiori%20%2F%20UI5-darkblue?style=flat-square)
 
-* **RICEF Objects:** Reports (ALV), Interfaces (Proxy/IDoc), Conversions (LSMW/LTMC), Enhancements (BAdI/User Exits), Forms (Smartforms/Adobe Forms).
-* **Modules:** MM (Material Management), FI (Financial Accounting), HCM (Human Capital), PM (Plant Maintenance).
+* **RICEF Objects:** Reports (ALV), Interfaces (RFC/OData), Conversions (BAPI/LSMW/LTMC), Enhancements (BAdI/User Exits), Forms (Smartforms/Adobe Forms).
+* **Modules:** MM (Material Management), FI (Financial Accounting), HCM (Human Capital), PM (Plant Maintenance), SD (Sales and Distribution).
 * **Tools:** Eclipse ADT, SAP GUI, Postman.
 
 ### Web & Others
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-1572B6?style=flat-square&logo=javascript&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
@@ -80,6 +81,13 @@ This repository! A clean, responsive portfolio site designed to showcase my SAP 
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rubbyguntara&theme=dark&hide_border=true&mode=weekly&card_width=600" alt="GitHub Streak" />
+</p>
+
+---
+
+## ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&hide_border=true" alt="GitHub Quotes" />
 </p>
 
 ---
